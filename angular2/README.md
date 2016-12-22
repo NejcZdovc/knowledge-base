@@ -4,3 +4,6 @@
 
 # EVENTS
 - [Window key watcher by jschwarty](http://plnkr.co/edit/EiFICU?p=info)
+
+# BOOTSTRAPING
+- [Load data before bootstrap](https://plnkr.co/edit/uFBNNYXKJm1aaYD0Lx2S?p=preview)
